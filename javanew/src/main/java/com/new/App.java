@@ -1,4 +1,4 @@
-package com.new;
+package com.mynew;
 
 public class App {
     public static void main(String[] args) {
